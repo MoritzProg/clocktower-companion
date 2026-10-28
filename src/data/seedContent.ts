@@ -267,10 +267,22 @@ const EXECUTIONS: Speech[] = [
     `As a last wish, $Name asks to die of old age. The town respectfully agrees, and waits. And waits. By Thursday the executioner has aged noticeably, $Name hasn't, and patience runs out. $Name is dead.`,
   ),
   speech(
+    'exec-old-age',
+    'de',
+    'execution',
+    `Als letzten Wunsch möchte $Name an Altersschwäche sterben. Die Stadt zeigt Verständnis und wartet. Und wartet. Am Donnerstag hat der Henker graue Haare bekommen, $Name noch immer keine — und die Geduld der Stadt ist aufgebraucht. $Name ist tot.`,
+  ),
+  speech(
     'exec-hide-seek',
     'en',
     'execution',
     `$Name asks for one last game of hide-and-seek before the execution. The town counts to a hundred. $Name hides in a coffin in the old crypt. Brilliant hiding spot. Terrible latch. $Name wins the game. $Name is dead.`,
+  ),
+  speech(
+    'exec-hide-seek',
+    'de',
+    'execution',
+    `Vor der Hinrichtung wünscht sich $Name ein letztes Versteckspiel. Die Stadt zählt bis hundert. $Name kriecht in der alten Gruft in einen Sarg. Das Versteck: genial. Der Deckel: nur von außen zu öffnen. $Name gewinnt das Spiel. $Name ist tot.`,
   ),
   speech(
     'exec-portrait',
@@ -279,10 +291,22 @@ const EXECUTIONS: Speech[] = [
     `The town hires a painter to capture $Name's final moments for the town hall. The painter is a perfectionist. "Hold still," he says. "Stiller." "Stiller." Eleven hours later the portrait is finished. It is remarkably lifelike, which is more than can be said for $Name. $Name is dead.`,
   ),
   speech(
+    'exec-portrait',
+    'de',
+    'execution',
+    `Die Stadt beauftragt einen Maler, $Names letzte Stunden für das Rathaus festzuhalten. Der Maler ist Perfektionist. „Stillhalten", sagt er. „Stiller." „Totenstill, bitte." Elf Stunden später ist das Bild fertig, und es wirkt erstaunlich lebendig. Lebendiger jedenfalls als $Name. $Name ist tot.`,
+  ),
+  speech(
     'exec-jury',
     'en',
     'execution',
     `$Name demands a fair trial before a jury of twelve impartial peers. The only twelve impartial creatures in Ravenswood Bluff turn out to be the crows on the gallows. The verdict is unanimous, and hungry. $Name is dead.`,
+  ),
+  speech(
+    'exec-jury',
+    'de',
+    'execution',
+    `$Name besteht auf einem fairen Prozess vor zwölf unparteiischen Geschworenen. In ganz Ravenswood Bluff gibt es genau zwölf Wesen, die keine Partei ergreifen: die Krähen auf dem Galgen. Sie entscheiden einstimmig. Und mit großem Appetit. $Name ist tot.`,
   ),
 ]
 
@@ -406,10 +430,22 @@ const MORNINGS: Speech[] = [
     `Fresh snow fell overnight. A single set of footprints leads up to $Name's door. None lead away. Inside lies $Name. The footprints continue across the floor, up the wall, and over the ceiling. $Name is dead.`,
   ),
   speech(
+    'morning-footprints',
+    'de',
+    'morning',
+    `In der Nacht hat es frisch geschneit. Eine einzige Spur führt zu $Names Haustür. Keine führt zurück. Drinnen liegt $Name. Die Spur aber geht weiter — quer durchs Zimmer, die Wand hinauf und über die Decke. $Name ist tot.`,
+  ),
+  speech(
     'morning-dog',
     'en',
     'morning',
     `$Name's dog sits on the doorstep as it does every morning. It wags its tail when the neighbors come. It growls when they try to go inside. Even after they carry $Name out, it keeps growling into the dark hallway, at something that is still in there. $Name is dead.`,
+  ),
+  speech(
+    'morning-dog',
+    'de',
+    'morning',
+    `Wie jeden Morgen sitzt $Names Hund vor der Haustür. Als die Nachbarn kommen, wedelt er. Als sie hineinwollen, knurrt er. Auch als man $Name längst hinausgetragen hat, starrt er knurrend in den dunklen Flur — als wäre dort noch jemand. $Name ist tot.`,
   ),
   speech(
     'morning-portraits',
@@ -418,10 +454,22 @@ const MORNINGS: Speech[] = [
     `Overnight, every portrait in the town hall has turned to face the wall. All but one: a new painting, the oil still wet, of $Name. The likeness is uncanny, especially the look of pure terror. $Name is dead.`,
   ),
   speech(
+    'morning-portraits',
+    'de',
+    'morning',
+    `Am Morgen hängen alle Bilder im Rathaus mit dem Gesicht zur Wand. Alle bis auf eines: ein neues Gemälde, die Farbe noch feucht. Es zeigt $Name — täuschend echt, vor allem der Ausdruck blanken Entsetzens. $Name ist tot.`,
+  ),
+  speech(
     'morning-horseshoe',
     'en',
     'morning',
     `$Name's lucky horseshoe, nailed above the door for good fortune, finally fell. It took the door frame, half the roof and $Name with it. The horse it came from has shown no remorse. $Name is dead.`,
+  ),
+  speech(
+    'morning-horseshoe',
+    'de',
+    'morning',
+    `Das Glückshufeisen über $Names Tür hat endlich nachgegeben. Es riss den Türrahmen mit, das halbe Dach — und $Name gleich dazu. Das Pferd, von dem es stammt, wäscht seine Hufe in Unschuld. $Name ist tot.`,
   ),
 ]
 
