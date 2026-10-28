@@ -145,6 +145,54 @@ Schlaft gut, Ravenswood Bluff. Die Chronik wartet.
 
 Gute Nacht!`,
   ),
+  speech(
+    'intro-welcome-back',
+    'en',
+    'intro',
+    `Good evening, and welcome back to Ravenswood Bluff.
+
+Some of you have been here before. You remember how it went. Trouble was brewing, we said, and we were right. Now the brewing is finished and the pot has boiled over.
+
+The town has changed since then. The washerwoman packed her baskets and left in the night. The investigator closed his case without an answer. The chef's kitchen burned down, and the soldier marched off to a war nobody can name. Good people. We miss them. We did not ask too many questions about why they left.
+
+In their place, newcomers have arrived.
+
+A clockmaker came to repair the tower and never went home. He walks the square at night, counting steps, as if the distance between the clock and something terrible could be measured.
+
+A grandmother arrived with a grandchild she will not let out of her sight. A gambler took the corner table at the inn and bets on everything, including who will be alive at breakfast. An artist set up an easel by the well and paints portraits that are uncomfortably accurate. A fool arrived laughing, and he has not stopped, not even at funerals. And one evening, under a full moon, a pale child walked in through the gate, and the dogs went quiet.
+
+The shadows have new faces too. Last time the demon brought amateurs. This time, word is, a professional has been hired, someone who kills once and makes it count. And a lawyer has taken rooms above the tavern, the kind who can talk a condemned man down from the gallows, exactly once.
+
+So here we are. Half of you are new to this town, and the town welcomes you. So does the demon. It is sitting in this circle. It knows your names. It has already decided who does not see tomorrow.
+
+Each day you will talk, accuse, and vote. Each night the clock will strike, and someone will not wake up. Find the demon before the town runs out of people.
+
+Everyone, close your eyes. Night falls on Ravenswood Bluff.`,
+  ),
+  speech(
+    'intro-welcome-back',
+    'de',
+    'intro',
+    `Guten Abend — und willkommen zurück in Ravenswood Bluff.
+
+Einige von euch waren schon einmal hier. Ihr wisst noch, wie es ausging. Damals sagten wir: Da braut sich etwas zusammen. Wir hatten recht. Inzwischen ist der Kessel übergekocht.
+
+Die Stadt hat sich seitdem verändert. Die Waschfrau hat eines Nachts ihre Körbe gepackt und ist verschwunden. Der Ermittler hat seine Akte geschlossen, ohne Antwort. Die Küche des Kochs ist abgebrannt, und der Soldat ist in einen Krieg gezogen, dessen Namen niemand kennt. Gute Leute. Wir vermissen sie. Und wir haben nicht allzu genau nachgefragt, warum sie gegangen sind.
+
+An ihrer Stelle sind Neue gekommen.
+
+Ein Uhrmacher kam, um die Turmuhr zu reparieren, und ist nie wieder abgereist. Nachts geht er über den Marktplatz und zählt seine Schritte — als ließe sich ausmessen, wie weit es von der Uhr bis zum Unheil ist.
+
+Eine Großmutter kam mit ihrem Enkelkind und lässt es keinen Moment aus den Augen. Ein Spieler hat den Ecktisch im Wirtshaus übernommen und wettet auf alles, auch darauf, wer beim Frühstück noch lebt. Eine Malerin hat ihre Staffelei am Brunnen aufgestellt und malt Porträts, die unangenehm genau sind. Ein Narr kam lachend in die Stadt und hat seitdem nicht mehr aufgehört, nicht einmal auf Beerdigungen. Und eines Abends, bei Vollmond, trat ein blasses Kind durch das Stadttor — und alle Hunde verstummten.
+
+Auch die Schatten haben neue Gesichter. Beim letzten Mal schickte der Dämon Anfänger. Diesmal, so munkelt man, hat er einen Profi angeheuert: jemanden, der nur ein einziges Mal zuschlägt. Aber dann hilft kein Gebet, kein Mönch und keine verschlossene Tür. Und über der Taverne hat sich ein Advokat eingemietet, einer von der Sorte, die einen Verurteilten vom Galgen redet. Ein einziges Mal.
+
+Und nun sitzen wir hier. Die Hälfte von euch ist neu in der Stadt, und die Stadt heißt euch willkommen. Der Dämon übrigens auch. Er sitzt hier in diesem Kreis. Er kennt eure Namen. Und er weiß längst, wer den Morgen nicht mehr erlebt.
+
+Tagsüber werdet ihr reden, beschuldigen und abstimmen. Nachts schlägt die Uhr, und jemand wacht nicht mehr auf. Findet den Dämon, bevor der Stadt die Menschen ausgehen.
+
+Schließt jetzt alle die Augen. Die Nacht bricht herein über Ravenswood Bluff.`,
+  ),
 ]
 
 // ---------------------------------------------------------------------------
