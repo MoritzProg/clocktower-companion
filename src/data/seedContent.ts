@@ -260,6 +260,30 @@ const EXECUTIONS: Speech[] = [
     'execution',
     `Als Henkersmahlzeit wünscht sich $Name das Schärfste, was die Taverne zu bieten hat — um dem Tod ins Gesicht zu lachen. Der Koch, von so viel Übermut beleidigt, gibt alles. $Name lacht, hustet, verlangt Wasser. Es gibt kein Wasser. $Name ist tot, und die Suppe wird von der Karte genommen.`,
   ),
+  speech(
+    'exec-old-age',
+    'en',
+    'execution',
+    `As a last wish, $Name asks to die of old age. The town respectfully agrees, and waits. And waits. By Thursday the executioner has aged noticeably, $Name hasn't, and patience runs out. $Name is dead.`,
+  ),
+  speech(
+    'exec-hide-seek',
+    'en',
+    'execution',
+    `$Name asks for one last game of hide-and-seek before the execution. The town counts to a hundred. $Name hides in a coffin in the old crypt. Brilliant hiding spot. Terrible latch. $Name wins the game. $Name is dead.`,
+  ),
+  speech(
+    'exec-portrait',
+    'en',
+    'execution',
+    `The town hires a painter to capture $Name's final moments for the town hall. The painter is a perfectionist. "Hold still," he says. "Stiller." "Stiller." Eleven hours later the portrait is finished. It is remarkably lifelike, which is more than can be said for $Name. $Name is dead.`,
+  ),
+  speech(
+    'exec-jury',
+    'en',
+    'execution',
+    `$Name demands a fair trial before a jury of twelve impartial peers. The only twelve impartial creatures in Ravenswood Bluff turn out to be the crows on the gallows. The verdict is unanimous, and hungry. $Name is dead.`,
+  ),
 ]
 
 // ---------------------------------------------------------------------------
@@ -374,6 +398,30 @@ const MORNINGS: Speech[] = [
     'de',
     'morning',
     `Am Morgen fehlt von $Name zunächst jede Spur. Erst beim Mittagsläuten fällt dem Küster auf, wie seltsam dumpf die große Glocke klingt. Man solle sich, sagt er später mit grauem Gesicht, den Klöppel besser nicht genauer ansehen. $Name ist tot.`,
+  ),
+  speech(
+    'morning-footprints',
+    'en',
+    'morning',
+    `Fresh snow fell overnight. A single set of footprints leads up to $Name's door. None lead away. Inside lies $Name. The footprints continue across the floor, up the wall, and over the ceiling. $Name is dead.`,
+  ),
+  speech(
+    'morning-dog',
+    'en',
+    'morning',
+    `$Name's dog sits on the doorstep as it does every morning. It wags its tail when the neighbors come. It growls when they try to go inside. Even after they carry $Name out, it keeps growling into the dark hallway, at something that is still in there. $Name is dead.`,
+  ),
+  speech(
+    'morning-portraits',
+    'en',
+    'morning',
+    `Overnight, every portrait in the town hall has turned to face the wall. All but one: a new painting, the oil still wet, of $Name. The likeness is uncanny, especially the look of pure terror. $Name is dead.`,
+  ),
+  speech(
+    'morning-horseshoe',
+    'en',
+    'morning',
+    `$Name's lucky horseshoe, nailed above the door for good fortune, finally fell. It took the door frame, half the roof and $Name with it. The horse it came from has shown no remorse. $Name is dead.`,
   ),
 ]
 
